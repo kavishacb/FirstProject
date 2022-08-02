@@ -1,0 +1,1 @@
+<button><a href="{{route('animePage')}}">Anime Page</a></button>
